@@ -8,7 +8,7 @@ About Me
 
 🤝 I'm looking to support interesting projects as freelance dev.
 
-📫 How to reach me: brandon@myxs.studio
+📫 How to reach me: brandon@myx.studio
 
 🛠️ Technologies & Tools
 <!-- You can use badges from https://shields.io -->
