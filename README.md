@@ -1,14 +1,14 @@
-👋🏾 Hi, I'm 14xFounder
+👋🏾 Hi, I'm Brandon
 
 About Me
 
 🏀 I'm a former overseas pro basketball player turned startup founder.
 
-🧱 My mission is to build 14 startups in 140 weeks.
+🧱 My mission is to become a 10x developer.
 
 🤝 I'm looking to support interesting projects as freelance dev.
 
-📫 How to reach me: brandon@14xfounder.com
+📫 How to reach me: brandon@myxs.studio
 
 🛠️ Technologies & Tools
 <!-- You can use badges from https://shields.io -->
