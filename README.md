@@ -23,4 +23,4 @@ About Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/14xfounder?s=21&t=myzxpfQKxYhpp6c2yDe10Q)
 
 ---
-⭐️ From [14xfounder](https://github.com/14xfounder)
+⭐️ From [14xfounder](https://github.com/14xfounder) [MYX.STUDIO](https://myx.studio)
